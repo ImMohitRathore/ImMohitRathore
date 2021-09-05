@@ -11,8 +11,7 @@
 - 📫 How to reach me:  <a href = "https://www.linkedin.com/in/mohit-rathore-0046aa211/"> @linkdin</a>
 - 😄 Pronouns: he/His
 
-<img src = "https://github-readme-stats.vercel.app/api?username=imMohitRathore&&show_icons=true&title_color=365cf2&icon_color=f23636&text_color=f23636&bg_color=fffff"/>
-<!-- - ⚡ Fun fact: i  -->
+
 
 
 <h3 align="left">Languages and Tools:</h3>
